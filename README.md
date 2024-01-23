@@ -31,7 +31,7 @@ To get started with the course, follow these steps:
 1. Clone or fork this repository to your local machine.
 2. Review the course materials in the respective directories.
 3. Complete the assignments and projects as instructed.
-4. Engage in discussions and ask questions in the course's [Issues](https://github.com/MJAHMADEE/MachineLearning2024/issues) section.
+4. Engage in discussions and ask questions in the course's [Issues](https://github.com/MJAHMADEE/MachineLearning2024W/issues) section.
 5. Stay updated with course announcements and updates by watching this repository.
 
 ## Contributing
