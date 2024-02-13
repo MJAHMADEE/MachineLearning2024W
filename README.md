@@ -1,10 +1,88 @@
-# Machine Learning Course Repository
+# Machine Learning Course - Dr. Aliyari - K. N. Toosi University of Technology
 
-Welcome to the official repository for the "Machine Learning" course! This repository contains all the resources and materials you need to succeed in the course.
+Welcome to the Machine Learning Course offered by Dr. Aliyari at K. N. Toosi University of Technology! This course covers a wide range of topics in machine learning, providing you with the knowledge and skills necessary to understand and apply various machine learning algorithms.
 
 ## Course Overview
 
 In this course, we will dive deep into the exciting field of machine learning. You'll learn the fundamentals of machine learning, explore various algorithms, and gain practical experience through hands-on assignments and projects.
+
+## Course Topics:
+
+1. **Prerequisites: Calculus**
+   - Basic concepts of calculus required for understanding machine learning algorithms.
+
+2. **Prerequisites: Linear Algebra**
+   - Fundamental concepts of linear algebra essential for machine learning applications.
+
+3. **Prerequisites: Probability (Statistics and Probability, Probability Density Function, etc.)**
+   - Understanding probability theory and statistical concepts crucial for machine learning.
+
+4. **Prerequisites: Python**
+   - Basics of Python programming language necessary for implementing machine learning algorithms.
+
+5. **Classification Problem, Linear Classifiers, Logistic Regression**
+   - Introduction to classification problems, linear classifiers, and logistic regression.
+
+6. **Bayes**
+   - Understanding Bayesian methods in machine learning.
+
+7. **Dimensionality Reduction - PCA**
+   - Principal Component Analysis (PCA) for dimensionality reduction.
+
+8. **Dimensionality Reduction - LDA**
+   - Linear Discriminant Analysis (LDA) for dimensionality reduction.
+
+9. **Dimensionality Reduction - Additional Techniques**
+   - Other techniques for dimensionality reduction.
+
+10. **SVM**
+    - Support Vector Machines (SVM) for classification and regression tasks.
+
+11. **Perceptron and M&P**
+    - Perceptron and Mcculloch Pitts (M&P) for neural network-based learning.
+
+12. **Autoencoder**
+    - Understanding autoencoder models in machine learning.
+
+13. **RBF**
+    - Radial Basis Function (RBF) networks for machine learning tasks.
+
+14. **Decision Trees - ID3**
+    - Introduction to ID3 (Iterative Dichotomiser 3) decision tree algorithm.
+
+15. **Decision Trees - C4.5**
+    - Understanding C4.5 decision tree algorithm.
+
+16. **Decision Trees - CART**
+    - Classification and Regression Trees (CART) algorithm.
+
+17. **Random Forest**
+    - Introduction to Random Forest algorithm.
+
+18. **Ensemble Learning - Boosting**
+    - Understanding boosting algorithms for ensemble learning.
+
+19. **Ensemble Learning - Bagging**
+    - Introduction to bagging techniques for ensemble learning.
+
+20. **Reinforcement Learning**
+    - Basics of reinforcement learning and its applications.
+
+21. **Convolutional Neural Networks (CNN)**
+    - Introduction to CNNs and their applications in image recognition.
+
+22. **Long Short-Term Memory (LSTM)**
+    - Understanding LSTM networks for sequential data analysis.
+
+## Course Structure:
+
+- Each topic will be covered in detail through lectures, practical sessions, and assignments.
+- Hands-on coding exercises will be provided to reinforce theoretical concepts.
+- The course aims to equip students with practical skills in implementing and evaluating machine learning algorithms.
+
+We hope you find this course informative and engaging! Feel free to reach out to Dr. Aliyari or the teaching staff for any queries or assistance throughout the course.
+
+Happy learning!
 
 ## Repository Contents
 
