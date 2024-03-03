@@ -1,48 +1,58 @@
-# Chapter 1 PPTX Slides
+# Linear Algebra for Machine Learning
 
-[![Google Drive](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-ML-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024W)
+![GitHub issues](https://img.shields.io/github/issues/MJAHMADEE/MachineLearning2024W)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MJAHMADEE/MachineLearning2024W)
+![GitHub stars](https://img.shields.io/github/stars/MJAHMADEE/MachineLearning2024W?style=social)
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+This course aims to bridge the gap between linear algebra and its applications in machine learning. It covers theoretical foundations and practical implementations, equipping students with the knowledge to understand and leverage linear algebra in machine learning contexts.
 
-Feel free to reach out if you have any questions or need further assistance.
+## Resources
 
-# Python Tutorial
+### Video Lectures
+![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg) [Access here](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+### Slide Content
+![Slides](https://img.shields.io/badge/Slides-Download-blue.svg) [View slides](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
 
-## Table of Contents
+### Homework
+![Homework](https://img.shields.io/badge/Homework-Complete-red.svg) [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
 
-## Python Tutorial
+## Syllabus Overview
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
+**Part A: Foundations of Linear Algebra**
+- Vectors, spaces, and transformations: Dive into the heart of linear algebra, exploring vector spaces, subspaces, basis, dimension, and linear transformations.
 
-## Python Basics
+**Part B: Matrices and Determinants**
+- The core: Understand the role of matrices in linear transformations, operations, determinants, and their properties.
 
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
+**Part C: Solving Linear Systems**
+- Practical applications: Focus on solving linear equations, understanding consistency, and exploring solution sets.
 
-## Data Types
+**Part D: Eigenvalues and Eigenvectors**
+- Key concepts for ML: Learn about eigenvalues, eigenvectors, and their significance in machine learning models.
 
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
+**Part E: Singular Value Decomposition (SVD)**
+- Advanced applications: Discover how SVD is used in machine learning for data compression, dimensionality reduction, and more.
 
-## Numpy Basics
+**Part F: Applications in Machine Learning**
+- Real-world applications: See how linear algebra powers various machine learning algorithms, from basic regression to complex neural networks.
 
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
 
-## Matplotlib
+## Contributing
+Contributions are welcome! If you have suggestions or want to improve the materials, please feel free to contribute.
 
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Pandas
+## Acknowledgements
+Thanks to all contributors and the educational community around this course. Your input makes a significant difference.
 
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
+## Reference
+For additional resources and complementary materials, refer to [Introduction to Linear Algebra for AI](https://github.com/shining0611armor/Introduction_of_linear_algebra_for_AI).
 
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
+---
 
-Happy learning and coding!
+Happy Learning!
