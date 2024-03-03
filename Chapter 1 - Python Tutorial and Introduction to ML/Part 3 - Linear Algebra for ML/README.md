@@ -1,48 +1,50 @@
-# Chapter 1 PPTX Slides
+# Linear Algebra for Machine Learning
 
-[![Google Drive](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-ML-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/user/repo)
+![GitHub issues](https://img.shields.io/github/issues/user/repo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/user/repo)
+![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+This comprehensive course is designed to introduce the core concepts of Linear Algebra essential for understanding and implementing various Machine Learning algorithms. From the basics of vectors and matrices to advanced topics like Eigenvalues and Singular Value Decomposition, this course offers a deep dive into the mathematical underpinnings of ML.
 
-Feel free to reach out if you have any questions or need further assistance.
+## Syllabus Overview
 
-# Python Tutorial
+### Part A: Basics of Linear Algebra
+- Introduction to vector spaces, linear combinations, span, linear independence, and matrix operations.
+- Understanding of rank, orthogonal vectors, and Gram-Schmidt orthogonalization.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+### Part B: Norms & Normalizations
+- Exploration of vector norms, matrix norms, and the importance of normalization in ML.
 
-## Table of Contents
+### Part C: Equations
+- Analysis of underdetermined and overdetermined systems, and the least squares method.
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
+### Part D: Eigens and Positive Definity
+- Deep dive into eigenvalues, eigenvectors, and properties of positive definite matrices.
 
-## Python Tutorial
+### Part E: SVD & Special Matrices
+- Singular Value Decomposition, covariance matrices, and properties of special matrices.
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
+### Part F: Additional Tools
+- Practical tips for data storage and vectorization in numpy.
 
-## Python Basics
+## Resources
 
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
+- **Video Lectures:** [Access here](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
+- **Slide Content:** [View slides](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
+- **Homework:** [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
 
-## Data Types
+## Contributing
+We welcome contributions from students and educators alike. If you have suggestions for improving the course material or would like to contribute exercises, please feel free to open an issue or a pull request.
 
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Numpy Basics
+## Acknowledgements
+Special thanks to all the contributors and students who have made this course possible. Your feedback and contributions are greatly appreciated.
 
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
+---
 
-## Matplotlib
+Happy Learning!
 
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
-
-## Pandas
-
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
-
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
-
-Happy learning and coding!
