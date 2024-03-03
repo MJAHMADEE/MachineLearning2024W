@@ -1,4 +1,8 @@
 # Machine Learning Course - Dr. Aliyari - K. N. Toosi University of Technology
+![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024W)
+![GitHub issues](https://img.shields.io/github/issues/MJAHMADEE/MachineLearning2024W)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MJAHMADEE/MachineLearning2024W)
+![GitHub stars](https://img.shields.io/github/stars/MJAHMADEE/MachineLearning2024W?style=social)
 
 Welcome to the Machine Learning Course offered by Dr. Aliyari at K. N. Toosi University of Technology! This course covers a wide range of topics in machine learning, providing you with the knowledge and skills necessary to understand and apply various machine learning algorithms.
 
