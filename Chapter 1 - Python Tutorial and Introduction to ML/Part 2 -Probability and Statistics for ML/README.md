@@ -1,67 +1,56 @@
-## Chapter 1 PPTX Slides
+# Probability and Statistics for Machine Learning
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+![Probability and Statistics](https://img.shields.io/badge/Probability%20and%20Statistics-ML-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024PS)
+![GitHub issues](https://img.shields.io/github/issues/MJAHMADEE/MachineLearning2024PS)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MJAHMADEE/MachineLearning2024PS)
+![GitHub stars](https://img.shields.io/github/stars/MJAHMADEE/MachineLearning2024PS?style=social)
 
-This folder contains the PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+This course is designed to equip students with a solid understanding of probability and statistics and their applications in machine learning. It covers both the theoretical aspects and practical skills necessary to apply probability and statistics in various machine learning contexts.
 
-## Chapter Video Content
+## Resources
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/18wN1IZTdWT5aZTvemzJVywB97gIIqe_b?usp=sharing)
+### Video Lectures
+![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg) [Access here](https://drive.google.com/drive/folders/1YJwcZ8Fn_nfzJhOBoXgdQ7jIHeU8ZdT4?usp=sharing)
 
-For an enhanced learning experience, access the video content prepared for Chapter 1. These videos complement the slides and provide additional insights into the topics covered.
+### Slide Content
+![Slides](https://img.shields.io/badge/Slides-Download-blue.svg) [View slides](https://drive.google.com/drive/folders/1wYNultwvqkhGFCJ1d4G9GeSdceVpIG7Z?usp=sharing)
 
-## Chapter Python Code Access
+### Homework
+![Homework](https://img.shields.io/badge/Homework-Complete-red.svg) [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
 
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/1C7EGXLh4KZjiO6692ANdPD528zIlfPbR?usp=sharing)
+## Syllabus Overview
 
-Dive into the Python code examples for Chapter 1 by clicking the badge above. These code samples are designed to reinforce the concepts discussed in the slides and videos.
+**Part A: Introduction to Probability**
+- Basics of probability, conditional probability, Bayes' theorem, and independence.
 
-## Python Tutorial
+**Part B: Random Variables and Distributions**
+- Understanding discrete and continuous random variables, key distributions, and their properties.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+**Part C: Statistical Inference**
+- Sampling distributions, estimation, hypothesis testing, and confidence intervals.
 
+**Part D: Regression Analysis**
+- Linear regression, multiple regression analysis, and the assumptions behind regression models.
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+**Part E: Bayesian Statistics**
+- Introduction to Bayesian thinking, Bayesian inference, and Bayesian models in machine learning.
 
-Feel free to reach out if you have any questions or need further assistance.
+**Part F: Applications in Machine Learning**
+- Practical applications of probability and statistics in machine learning, including decision trees, clustering, and neural networks.
 
-# Python Tutorial
+## Contributing
+Contributions are welcome! If you have suggestions or want to improve the materials, please feel free to contribute.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## Table of Contents
+## Acknowledgements
+Thanks to all contributors and the educational community around this course. Your input makes a significant difference.
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
+## Reference
+For additional resources and complementary materials, refer to [Advanced Probability and Statistics for AI](https://github.com/Ardawanism).
 
-## Python Tutorial
+---
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
-
-## Python Basics
-
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
-
-## Data Types
-
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
-
-## Numpy Basics
-
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
-
-## Matplotlib
-
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
-
-## Pandas
-
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
-
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
-
-Happy learning and coding!
+Happy Learning!
