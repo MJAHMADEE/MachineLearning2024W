@@ -12,13 +12,13 @@ This course aims to bridge the gap between linear algebra and its applications i
 ## Resources
 
 ### Video Lectures
-![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg) [Access here](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
+[![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg)](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
 
 ### Slide Content
-![Slides](https://img.shields.io/badge/Slides-Download-blue.svg) [View slides](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
+[![Slides](https://img.shields.io/badge/Slides-Download-blue.svg)](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
 
 ### Homework
-![Homework](https://img.shields.io/badge/Homework-Complete-red.svg) [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
+[![Homework](https://img.shields.io/badge/Homework-Complete-red.svg)](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
 
 
 ## Syllabus Overview
