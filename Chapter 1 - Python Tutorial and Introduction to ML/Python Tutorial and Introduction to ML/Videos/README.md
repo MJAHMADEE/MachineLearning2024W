@@ -1,48 +1,27 @@
-# Chapter 1 PPTX Slides
+# Chapter Video Content Access
 
-[![Google Drive](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+Welcome to our repository where we provide exclusive video content to enhance your learning experience. To ensure you have all the resources at your fingertips, we've stored our chapter-related videos in a dedicated Google Drive folder.
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+## Accessing the Videos
 
-Feel free to reach out if you have any questions or need further assistance.
+To access the video content for this chapter, please click on the badge below:
 
-# Python Tutorial
+[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/18wN1IZTdWT5aZTvemzJVywB97gIIqe_b?usp=sharing)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+This link will take you to a Google Drive folder where you can view and download the videos.
 
-## Table of Contents
+## Preview
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
+Here's a sneak peek of what you can expect from our video content:
 
-## Python Tutorial
+![Video Content Preview](https://via.placeholder.com/400x300.png?text=Chapter+Video+Preview)
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
+*Please note: The above image is a placeholder. Actual video content can be accessed through the provided Google Drive link.*
 
-## Python Basics
+## Need Help?
 
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
+If you encounter any issues accessing the videos or have any questions, please feel free to open an issue in this repository or contact our support team.
 
-## Data Types
+We hope you find these videos helpful and engaging. Happy learning!
 
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
-
-## Numpy Basics
-
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
-
-## Matplotlib
-
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
-
-## Pandas
-
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
-
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
-
-Happy learning and coding!
+---
