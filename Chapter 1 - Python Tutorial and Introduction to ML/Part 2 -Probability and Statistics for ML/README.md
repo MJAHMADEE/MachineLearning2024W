@@ -12,13 +12,10 @@ This course is designed to equip students with a solid understanding of probabil
 ## Resources
 
 ### Video Lectures
-![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg) [Access here](https://drive.google.com/drive/folders/1YJwcZ8Fn_nfzJhOBoXgdQ7jIHeU8ZdT4?usp=sharing)
+[![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg)](https://drive.google.com/drive/folders/1YJwcZ8Fn_nfzJhOBoXgdQ7jIHeU8ZdT4?usp=sharing)
 
 ### Slide Content
-![Slides](https://img.shields.io/badge/Slides-Download-blue.svg) [View slides](https://drive.google.com/drive/folders/1wYNultwvqkhGFCJ1d4G9GeSdceVpIG7Z?usp=sharing)
-
-### Homework
-![Homework](https://img.shields.io/badge/Homework-Complete-red.svg) [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
+[![Slides](https://img.shields.io/badge/Slides-Download-blue.svg)](https://drive.google.com/drive/folders/1wYNultwvqkhGFCJ1d4G9GeSdceVpIG7Z?usp=sharing)
 
 ## Syllabus Overview
 
