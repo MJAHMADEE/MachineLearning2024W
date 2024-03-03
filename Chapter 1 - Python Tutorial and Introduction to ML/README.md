@@ -73,7 +73,7 @@ Linear Algebra is crucial for understanding the structure of machine learning al
 
 ## Resources
 
-- [3Blue1Brown's Essence of Linear Algebra](https://www.3blue1brown.com/series/essence-of-linear-algebra)
+- [Introduction to Linear Algebra, Fifth Edition (2016) by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/ila5/indexila5.html)
 
 ---
 
