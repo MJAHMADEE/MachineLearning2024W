@@ -1,67 +1,102 @@
-## Chapter 1 PPTX Slides
+# Part 1 - Python Tutorial and Introduction to ML
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
+![ML](https://img.shields.io/badge/machine%20learning-introduction-lightgrey.svg)
 
-This folder contains the PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+This section provides a comprehensive introduction to Python programming and foundational concepts in Machine Learning. Designed for beginners, it covers everything from basic Python syntax to the implementation of simple machine learning algorithms.
 
-## Chapter Video Content
+## What You Will Learn
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/18wN1IZTdWT5aZTvemzJVywB97gIIqe_b?usp=sharing)
+- Basic Python programming
+- Data types and structures
+- Control flow in Python
+- Functions and modules
+- Introduction to Machine Learning concepts
+- Implementing basic ML algorithms in Python
 
-For an enhanced learning experience, access the video content prepared for Chapter 1. These videos complement the slides and provide additional insights into the topics covered.
+## Requirements
 
-## Chapter Python Code Access
+- Python 3.7 or higher
+- Basic understanding of programming concepts
 
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/1C7EGXLh4KZjiO6692ANdPD528zIlfPbR?usp=sharing)
+## Resources
 
-Dive into the Python code examples for Chapter 1 by clicking the badge above. These code samples are designed to reinforce the concepts discussed in the slides and videos.
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
-## Python Tutorial
+---
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+# Part 2 - Probability and Statistics for ML
 
+![Probability](https://img.shields.io/badge/probability-statistics-orange.svg)
+![Statistics](https://img.shields.io/badge/statistics-for%20ML-red.svg)
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+This part dives deep into the probability and statistics required for understanding and implementing machine learning algorithms effectively. It lays the mathematical groundwork necessary for advanced topics in machine learning.
 
-Feel free to reach out if you have any questions or need further assistance.
+## What You Will Learn
 
-# Python Tutorial
+- Probability theory fundamentals
+- Descriptive statistics and data summarization
+- Inferential statistics
+- Distributions and their applications in ML
+- Statistical hypothesis testing
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+## Requirements
 
-## Table of Contents
+- Basic Python knowledge
+- Part 1 completion or equivalent knowledge
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
+## Resources
 
-## Python Tutorial
+- [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
+---
 
-## Python Basics
+# Part 3 - Linear Algebra for ML
 
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
+![Linear Algebra](https://img.shields.io/badge/linear%20algebra-for%20ML-blueviolet.svg)
 
-## Data Types
+Linear Algebra is crucial for understanding the structure of machine learning algorithms. This section covers the key concepts of linear algebra needed to build and comprehend complex models.
 
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
+## What You Will Learn
 
-## Numpy Basics
+- Vectors and matrices
+- Matrix operations and their properties
+- Eigenvalues and eigenvectors
+- Singular Value Decomposition (SVD)
+- Applications of linear algebra in ML models
 
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
+## Requirements
 
-## Matplotlib
+- Basic Python knowledge
+- Understanding of probability and statistics
 
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
+## Resources
 
-## Pandas
+- [3Blue1Brown's Essence of Linear Algebra](https://www.3blue1brown.com/series/essence-of-linear-algebra)
 
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
+---
 
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
+# Part 4 - Python and Git Workshops
 
-Happy learning and coding!
+![Python Workshop](https://img.shields.io/badge/python-workshop-green.svg)
+![Git Workshop](https://img.shields.io/badge/git-workshop-brightgreen.svg)
+
+This part covers practical workshops on Python programming and version control using Git. It is designed to provide hands-on experience with software development tools and practices.
+
+## What You Will Learn
+
+- Advanced Python programming techniques
+- Introduction to Git and GitHub
+- Version control best practices
+- Collaborating on projects with Git
+
+## Requirements
+
+- Completion of Part 1 or equivalent Python experience
+- No prior experience with Git required
+
+## Resources
+
+- [Git Documentation](https://git-scm.com/doc)
+- [Python Advanced Tutorial](https://docs.python.org/3/tutorial/advanced.html)
