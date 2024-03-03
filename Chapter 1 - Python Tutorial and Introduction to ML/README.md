@@ -48,7 +48,7 @@ This part dives deep into the probability and statistics required for understand
 
 ## Resources
 
-- [Khan Academy Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 
 ---
 
