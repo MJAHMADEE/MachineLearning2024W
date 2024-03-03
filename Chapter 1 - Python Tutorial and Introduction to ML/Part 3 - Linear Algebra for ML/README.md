@@ -1,50 +1,58 @@
 # Linear Algebra for Machine Learning
 
 ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-ML-blue.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/user/repo)
-![GitHub issues](https://img.shields.io/github/issues/user/repo)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/user/repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024W)
+![GitHub issues](https://img.shields.io/github/issues/MJAHMADEE/MachineLearning2024W)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MJAHMADEE/MachineLearning2024W)
+![GitHub stars](https://img.shields.io/github/stars/MJAHMADEE/MachineLearning2024W?style=social)
+
+This course aims to bridge the gap between linear algebra and its applications in machine learning. It covers theoretical foundations and practical implementations, equipping students with the knowledge to understand and leverage linear algebra in machine learning contexts.
 
 ## Resources
 
-- **Video Lectures:** [Access here](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
-- **Slide Content:** [View slides](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
-- **Homework:** [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
+### Video Lectures
+![Video Lectures](https://img.shields.io/badge/Videos-Accessible-green.svg) [Access here](https://drive.google.com/drive/folders/18HSS44jmx1ejxWK2LOuJvjwbZCqSXyKO?usp=sharing)
 
-This comprehensive course is designed to introduce the core concepts of Linear Algebra essential for understanding and implementing various Machine Learning algorithms. From the basics of vectors and matrices to advanced topics like Eigenvalues and Singular Value Decomposition, this course offers a deep dive into the mathematical underpinnings of ML.
+### Slide Content
+![Slides](https://img.shields.io/badge/Slides-Download-blue.svg) [View slides](https://drive.google.com/drive/folders/1ukYXr8nyigaa8F32br4LnTBeY47zF16q?usp=sharing)
+
+### Homework
+![Homework](https://img.shields.io/badge/Homework-Complete-red.svg) [Complete assignments](https://drive.google.com/drive/folders/1BekirJjXgBqGyhHF1tDj4sxfaO6POkZq?usp=sharing)
+
 
 ## Syllabus Overview
 
-### Part A: Basics of Linear Algebra
-- Introduction to vector spaces, linear combinations, span, linear independence, and matrix operations.
-- Understanding of rank, orthogonal vectors, and Gram-Schmidt orthogonalization.
+**Part A: Foundations of Linear Algebra**
+- Vectors, spaces, and transformations: Dive into the heart of linear algebra, exploring vector spaces, subspaces, basis, dimension, and linear transformations.
 
-### Part B: Norms & Normalizations
-- Exploration of vector norms, matrix norms, and the importance of normalization in ML.
+**Part B: Matrices and Determinants**
+- The core: Understand the role of matrices in linear transformations, operations, determinants, and their properties.
 
-### Part C: Equations
-- Analysis of underdetermined and overdetermined systems, and the least squares method.
+**Part C: Solving Linear Systems**
+- Practical applications: Focus on solving linear equations, understanding consistency, and exploring solution sets.
 
-### Part D: Eigens and Positive Definity
-- Deep dive into eigenvalues, eigenvectors, and properties of positive definite matrices.
+**Part D: Eigenvalues and Eigenvectors**
+- Key concepts for ML: Learn about eigenvalues, eigenvectors, and their significance in machine learning models.
 
-### Part E: SVD & Special Matrices
-- Singular Value Decomposition, covariance matrices, and properties of special matrices.
+**Part E: Singular Value Decomposition (SVD)**
+- Advanced applications: Discover how SVD is used in machine learning for data compression, dimensionality reduction, and more.
 
-### Part F: Additional Tools
-- Practical tips for data storage and vectorization in numpy.
+**Part F: Applications in Machine Learning**
+- Real-world applications: See how linear algebra powers various machine learning algorithms, from basic regression to complex neural networks.
 
 
 ## Contributing
-We welcome contributions from students and educators alike. If you have suggestions for improving the course material or would like to contribute exercises, please feel free to open an issue or a pull request.
+Contributions are welcome! If you have suggestions or want to improve the materials, please feel free to contribute.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgements
-Special thanks to all the contributors and students who have made this course possible. Your feedback and contributions are greatly appreciated.
+Thanks to all contributors and the educational community around this course. Your input makes a significant difference.
+
+## Reference
+For additional resources and complementary materials, refer to [Introduction to Linear Algebra for AI](https://github.com/shining0611armor/Introduction_of_linear_algebra_for_AI).
 
 ---
 
 Happy Learning!
-
