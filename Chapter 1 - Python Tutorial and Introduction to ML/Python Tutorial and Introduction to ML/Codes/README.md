@@ -1,48 +1,29 @@
-# Chapter 1 PPTX Slides
+# Chapter Python Code Access
 
-[![Google Drive](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+Welcome to our dedicated repository for Python enthusiasts! In our commitment to support your learning journey, we provide exclusive access to the Python code content related to our current chapter.
 
-This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+## Accessing the Python Code
 
-Feel free to reach out if you have any questions or need further assistance.
+To dive into the Python code for this chapter, simply click on the badge below:
 
-# Python Tutorial
+[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/1C7EGXLh4KZjiO6692ANdPD528zIlfPbR?usp=sharing)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RmhuaYGUK9EII_AQpVUx-Hif5nsbZ4ZJ?usp=sharing)
+This badge is your gateway to a Google Drive folder brimming with Python code files prepared specifically for this chapter. Here, you can view and download the code to run, analyze, and learn from it.
 
-## Table of Contents
+## Code Preview
 
-1. [Python Tutorial](#python-tutorial)
-2. [Python Basics](#python-basics)
-3. [Data Types](#data-types)
-4. [Numpy Basics](#numpy-basics)
-5. [Matplotlib](#matplotlib)
-6. [Pandas](#pandas)
+For a glimpse into the code you're about to explore, here's a preview showcasing the structure and style of our Python scripts:
 
-## Python Tutorial
+![Code Content Preview](https://via.placeholder.com/400x300.png?text=Python+Code+Preview)
 
-This section provides a comprehensive Python tutorial that covers the basics and essential concepts of the Python programming language.
+*Please note: The image above is a placeholder. The actual Python code is available through the Google Drive link provided.*
 
-## Python Basics
+## Need Assistance?
 
-In the "Python Basics" section, you will find a detailed exploration of fundamental Python programming topics, including variables, data types, operators, and more.
+Encountering issues accessing the code or have questions? Feel free to open an issue in this repository or reach out to our support team for assistance.
 
-## Data Types
+We're excited to provide these resources and hope they significantly contribute to your learning experience. Dive in and start coding!
 
-The "Data Types" section delves into different data types available in Python, such as strings, lists, dictionaries, and sets, along with practical examples.
+Happy coding!
 
-## Numpy Basics
-
-Here, we dive into the fundamentals of NumPy, a powerful library for numerical computing in Python. Learn about arrays, operations, and data manipulation with NumPy.
-
-## Matplotlib
-
-The "Matplotlib" section covers data visualization using Matplotlib, a versatile plotting library in Python. Explore various plotting techniques and create informative visualizations.
-
-## Pandas
-
-In the "Pandas" section, you'll discover how to work with data using Pandas, a popular data manipulation library. Learn about dataframes, data cleaning, and analysis.
-
-Feel free to explore the notebook by clicking the "Open in Colab" badge above. If you have any questions or feedback, please don't hesitate to reach out.
-
-Happy learning and coding!
+---
