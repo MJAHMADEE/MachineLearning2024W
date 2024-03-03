@@ -1,5 +1,5 @@
 # Probability and Statistics for Machine Learning
-[![GitHub ID](https://img.shields.io/badge/GitHub-shining0611armor-blue?style=flat&logo=github)](https://github.com/shining0611armor)
+[![GitHub ID](https://img.shields.io/badge/GitHub-Ardawanism-blue?style=flat&logo=github)](https://github.com/Ardawanism)
 
 ![Probability and Statistics](https://img.shields.io/badge/Probability%20and%20Statistics-ML-blue.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024PS)
