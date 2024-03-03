@@ -1,6 +1,25 @@
-# Chapter 1 PPTX Slides
+## Chapter 1 PPTX Slides
 
-[![Google Drive](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+
+This folder contains the PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
+
+## Chapter Video Content
+
+[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/18wN1IZTdWT5aZTvemzJVywB97gIIqe_b?usp=sharing)
+
+For an enhanced learning experience, access the video content prepared for Chapter 1. These videos complement the slides and provide additional insights into the topics covered.
+
+## Chapter Python Code Access
+
+[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/1C7EGXLh4KZjiO6692ANdPD528zIlfPbR?usp=sharing)
+
+Dive into the Python code examples for Chapter 1 by clicking the badge above. These code samples are designed to reinforce the concepts discussed in the slides and videos.
+
+## Python Tutorial
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pqe0y56YY0baq-orZzBbPRG7kNqPox9_?usp=sharing)
+
 
 This folder contains PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
 
