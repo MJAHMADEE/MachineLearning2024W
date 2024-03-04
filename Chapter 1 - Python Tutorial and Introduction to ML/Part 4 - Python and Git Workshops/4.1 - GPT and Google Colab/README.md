@@ -11,7 +11,7 @@ This repository is dedicated to demonstrating how to integrate and utilize ChatG
 
 ## Chapter Python Code Access
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1eWJWhBRchU9UmmyQPfKPy211te_w07bC?usp=sharing)
+[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/1eWJWhBRchU9UmmyQPfKPy211te_w07bC?usp=sharing)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
