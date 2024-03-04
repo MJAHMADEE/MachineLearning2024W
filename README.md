@@ -1,4 +1,4 @@
-# Machine Learning Course - Dr. Aliyari - K. N. Toosi University of Technology
+# Machine Learning Course, Dr. Aliyari - K. N. Toosi University of Technology
 ![GitHub last commit](https://img.shields.io/github/last-commit/MJAHMADEE/MachineLearning2024W)
 ![GitHub issues](https://img.shields.io/github/issues/MJAHMADEE/MachineLearning2024W)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/MJAHMADEE/MachineLearning2024W)
