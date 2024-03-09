@@ -19,13 +19,13 @@ Access the materials for Chapter 2 through the following parts:
 
 ### Part 1
 
-Explore the initial concepts of Linear Classifiers in Part 1.
+Explore in Part 1.
 
 [![Part 1](https://img.shields.io/badge/Access-Part%201-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%201)
 
 ### Part 2
 
-Continue your learning with advanced topics in Part 2.
+Continue your learning with in Part 2.
 
 [![Part 2](https://img.shields.io/badge/Access-Part%202-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%202)
 
