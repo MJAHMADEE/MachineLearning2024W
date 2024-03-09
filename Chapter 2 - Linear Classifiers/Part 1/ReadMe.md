@@ -1,4 +1,4 @@
-# Chapter 2: Linear Classifiers
+# Chapter 2: Linear Classifiers (Part 1)
 
 Welcome to Chapter 2 of our course, where we delve into the fascinating world of Linear Classifiers, including topics on the Classification Problem and Logistic Regression.
 
@@ -21,19 +21,19 @@ To enhance your learning experience, we provide a range of resources including s
 
 Access the PowerPoint slides for Chapter 2 to get a comprehensive overview of the topics covered.
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/YourChapter2SlidesLink?usp=sharing)
+[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1kbMyZMwwysXevdnv_sRHtNliWiGbgRck?usp=sharing)
 
 ### Chapter Video Content
 
 Watch the chapter videos to understand the concepts visually and in detail.
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/YourChapter2VideoLink?usp=sharing)
+[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1DkElRSNAHYYq1KhqDi6UnqCcEOIgIRER?usp=sharing)
 
 ### Chapter Python Code
 
 Get hands-on with the Python code examples provided for Chapter 2. These examples will help you understand the practical implementation of linear classifiers.
 
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/YourChapter2CodeLink?usp=sharing)
+[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/14lr8W1ZC9JephcXTS_JofoivDmtnexuf?usp=sharing)
 
 ## Python Tutorial
 
