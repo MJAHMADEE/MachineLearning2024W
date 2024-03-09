@@ -35,12 +35,6 @@ Get hands-on with the Python code examples provided for Chapter 2. These example
 
 [![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/14lr8W1ZC9JephcXTS_JofoivDmtnexuf?usp=sharing)
 
-## Python Tutorial
-
-For those who want to dive deeper into Python, check out the Python tutorial relevant to this chapter.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YourPythonTutorialLink?usp=sharing)
-
 ---
 
 Feel free to reach out if you have any questions or need further assistance with the materials provided. Happy Learning!
