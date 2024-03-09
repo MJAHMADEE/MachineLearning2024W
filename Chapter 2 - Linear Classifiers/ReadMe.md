@@ -25,7 +25,7 @@ Explore in Part 1.
 
 ### Part 2
 
-Continue your learning with in Part 2.
+Continue your learning in Part 2.
 
 [![Part 2](https://img.shields.io/badge/Access-Part%202-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%202)
 
