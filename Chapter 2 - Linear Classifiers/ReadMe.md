@@ -15,31 +15,19 @@ In this chapter, we explore the fundamentals of linear classification methods an
 
 ## Resources
 
-To enhance your learning experience, we provide a range of resources including slides, video content, and Python code examples.
+Access the materials for Chapter 2 through the following parts:
 
-### Chapter Slides
+### Part 1
 
-Access the PowerPoint slides for Chapter 2 to get a comprehensive overview of the topics covered.
+Explore the initial concepts of Linear Classifiers in Part 1.
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/YourChapter2SlidesLink?usp=sharing)
+[![Part 1](https://img.shields.io/badge/Access-Part%201-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%201)
 
-### Chapter Video Content
+### Part 2
 
-Watch the chapter videos to understand the concepts visually and in detail.
+Continue your learning with advanced topics in Part 2.
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/YourChapter2VideoLink?usp=sharing)
-
-### Chapter Python Code
-
-Get hands-on with the Python code examples provided for Chapter 2. These examples will help you understand the practical implementation of linear classifiers.
-
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/YourChapter2CodeLink?usp=sharing)
-
-## Python Tutorial
-
-For those who want to dive deeper into Python, check out the Python tutorial relevant to this chapter.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YourPythonTutorialLink?usp=sharing)
+[![Part 2](https://img.shields.io/badge/Access-Part%202-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%202)
 
 ---
 
