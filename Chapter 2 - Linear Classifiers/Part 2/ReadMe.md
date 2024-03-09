@@ -1,4 +1,4 @@
-# Chapter 2: Linear Classifiers
+# Chapter 2: Linear Classifiers (Part 2)
 
 Welcome to Chapter 2 of our course, where we delve into the fascinating world of Linear Classifiers, including topics on the Classification Problem and Logistic Regression.
 
@@ -21,25 +21,13 @@ To enhance your learning experience, we provide a range of resources including s
 
 Access the PowerPoint slides for Chapter 2 to get a comprehensive overview of the topics covered.
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/YourChapter2SlidesLink?usp=sharing)
+[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1z48h5jf2EBIcu7CCa5QeeI_cJhsOWVC-?usp=sharing)
 
 ### Chapter Video Content
 
 Watch the chapter videos to understand the concepts visually and in detail.
 
-[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/YourChapter2VideoLink?usp=sharing)
-
-### Chapter Python Code
-
-Get hands-on with the Python code examples provided for Chapter 2. These examples will help you understand the practical implementation of linear classifiers.
-
-[![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/YourChapter2CodeLink?usp=sharing)
-
-## Python Tutorial
-
-For those who want to dive deeper into Python, check out the Python tutorial relevant to this chapter.
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YourPythonTutorialLink?usp=sharing)
+[![Access Videos](https://img.shields.io/badge/Access-Videos-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1yF_9rEey961Taxse0meupi8fHb0I4r9_?usp=sharing)
 
 ---
 
