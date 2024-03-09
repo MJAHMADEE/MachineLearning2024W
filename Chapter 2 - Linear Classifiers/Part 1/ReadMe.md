@@ -2,17 +2,6 @@
 
 Welcome to Chapter 2 of our course, where we delve into the fascinating world of Linear Classifiers, including topics on the Classification Problem and Logistic Regression.
 
-## Chapter 2 Overview
-
-In this chapter, we explore the fundamentals of linear classification methods and their applications. You'll gain a deeper understanding of how these models work and how they're implemented in practice.
-
-### What You Will Learn
-
-- The concept of the Classification Problem
-- Basics of Linear Classifiers
-- Introduction to Logistic Regression
-- Practical applications of Linear Classifiers
-
 ## Resources
 
 To enhance your learning experience, we provide a range of resources including slides, video content, and Python code examples.
@@ -35,6 +24,16 @@ Get hands-on with the Python code examples provided for Chapter 2. These example
 
 [![Access Code](https://img.shields.io/badge/Access-Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://drive.google.com/drive/folders/14lr8W1ZC9JephcXTS_JofoivDmtnexuf?usp=sharing)
 
+## Chapter 2 Overview
+
+In this chapter, we explore the fundamentals of linear classification methods and their applications. You'll gain a deeper understanding of how these models work and how they're implemented in practice.
+
+### What You Will Learn
+
+- The concept of the Classification Problem
+- Basics of Linear Classifiers
+- Introduction to Logistic Regression
+- Practical applications of Linear Classifiers
 ---
 
 Feel free to reach out if you have any questions or need further assistance with the materials provided. Happy Learning!
