@@ -1,4 +1,5 @@
 # Chapter 2: Linear Classifiers (Part 1)
+[![GitHub ID](https://img.shields.io/badge/GitHub-MJAHMADEE-blue?style=flat&logo=github)](https://github.com/MJAHMADEE)
 
 Welcome to Chapter 2 of our course, where we delve into the fascinating world of Linear Classifiers, including topics on the Classification Problem and Logistic Regression.
 
