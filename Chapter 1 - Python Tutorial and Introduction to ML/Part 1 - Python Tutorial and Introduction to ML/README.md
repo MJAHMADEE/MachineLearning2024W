@@ -1,6 +1,6 @@
 ## Chapter 1 PPTX Slides
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-PowerPoint-blue?style=for-the-badge&logo=microsoft-powerpoint)](https://drive.google.com/drive/folders/1d1oLCcXWyncBu0d5qvL9IgvT_PU2lzdS?usp=sharing)
+[![View Slides](https://img.shields.io/badge/View%20Slides-PowerPoint-blue?style=for-the-badge&logo=microsoft-powerpoint)](https://drive.google.com/drive/folders/1XUzMD3NeM6d2C00XEmMLnY8kHGDLSe6I?usp=sharing)
 
 This folder contains the PowerPoint (PPTX) slides for Chapter 1 of our course/material. Click the badge above to access and view the slides on Google Drive.
 
