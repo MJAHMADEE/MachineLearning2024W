@@ -134,4 +134,21 @@ If you have questions or need assistance, you can reach out to the course instru
 
 - Instructor: [![Email Me](https://img.shields.io/badge/Email%20Me-Email%20Badge-green)](mailto:ai.kntu.ac@gmail.com)
 
+## Contributors
+
+<a href="https://github.com/MJAHMADEE/MachineLearning2024W/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MJAHMADEE/MachineLearning2024W" />
+</a>
+
+## Citation
+
+```bibtex
+@article{moore2020fiftyone,
+  title={KNTU Machine Learning Course},
+  author={K. N. Toosi University of Technology},
+  journal={GitHub. Note: https://github.com/MJAHMADEE/MachineLearning2024W},
+  year={Winter 2024}
+}
+```
+
 Happy learning!
