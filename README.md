@@ -137,7 +137,7 @@ If you have questions or need assistance, you can reach out to the course instru
 ## Citation
 
 ```bibtex
-@article{moore2020fiftyone,
+@article{MachineLearning2024W,
   title={KNTU Machine Learning Course},
   author={K. N. Toosi University of Technology},
   journal={GitHub. Note: https://github.com/MJAHMADEE/MachineLearning2024W},
