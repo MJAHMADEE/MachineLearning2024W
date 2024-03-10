@@ -11,7 +11,7 @@ To enhance your learning experience, we provide a range of resources including s
 
 Access the PowerPoint slides for Chapter 2 to get a comprehensive overview of the topics covered.
 
-[![View Slides](https://img.shields.io/badge/View%20Slides-Google%20Drive-blue)](https://drive.google.com/drive/folders/1kbMyZMwwysXevdnv_sRHtNliWiGbgRck?usp=sharing)
+[![View Slides](https://img.shields.io/badge/View%20Slides-PowerPoint-blue?style=for-the-badge&logo=microsoft-powerpoint)](https://drive.google.com/drive/folders/1kbMyZMwwysXevdnv_sRHtNliWiGbgRck?usp=sharing)
 
 ### Chapter Video Content
 
