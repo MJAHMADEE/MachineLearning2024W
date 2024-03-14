@@ -15,6 +15,6 @@ The workshop videos are available in three separate sessions on YouTube in the p
 
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://youtube.com/playlist?list=PLJihS-xmCdhPqqiB_U4A6BdqpznjfVF1b&feature=shared)
 
-## Acknowledgements 🫱🏻‍🫲🏻
+## Acknowledgements
 
 Special thanks to the friends who played a role in organizing the class and preparing and editing the videos.
