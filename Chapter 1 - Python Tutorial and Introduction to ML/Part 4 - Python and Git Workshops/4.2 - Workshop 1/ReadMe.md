@@ -1,4 +1,5 @@
 # Teaching Assistant Workshop Videos 🎞
+[![GitHub ID](https://img.shields.io/badge/GitHub-msinamsina-blue?style=flat&logo=github)](https://github.com/msinamsina)
 
 ## Sessions 11-13 Videos 🎞
 
