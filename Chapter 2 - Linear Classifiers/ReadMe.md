@@ -17,17 +17,23 @@ In this chapter, we explore the fundamentals of linear classification methods an
 
 Access the materials for Chapter 2 through the following parts:
 
-### Part 1
+### Part 1: Linear Classifiers
 
-Explore in Part 1.
+Delve into the concept and fundamentals of Linear Classifiers in Part 1.
 
 [![Part 1](https://img.shields.io/badge/Access-Part%201-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%201)
 
-### Part 2
+### Part 2: Logistic Regression
 
-Continue your learning in Part 2.
+Continue your learning with the Introduction to Logistic Regression in Part 2.
 
 [![Part 2](https://img.shields.io/badge/Access-Part%202-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%202)
+
+### Part 3: Least Squares and Recursive Least Squares (LS & RLS)
+
+In Part 3, explore the advanced topics of Least Squares (LS) and Recursive Least Squares (RLS), their theory, and their applications.
+
+[![Part 3](https://img.shields.io/badge/Access-Part%203-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Linear%20Classifiers/Part%203)
 
 ---
 
