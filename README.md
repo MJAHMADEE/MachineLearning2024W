@@ -142,73 +142,73 @@ This section showcases the avatars of the main collaborators on this project. Cl
   <tr>
     <td align="center">
       <a href="https://github.com/MJAHMADEE">
-        <img src="https://github.com/MJAHMADEE.png" width="100" height="100" alt="MJAHMADEE" style="border-radius:50%">
+        <img src="https://github.com/MJAHMADEE.png" width="80" height="80" alt="MJAHMADEE" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/MJAHMADEE">MJAHMADEE</a>
+      <br><a href="https://github.com/MJAHMADEE" style="font-size:14px;">MJAHMADEE</a>
     </td>
     <td align="center">
       <a href="https://github.com/msinamsina">
-        <img src="https://github.com/msinamsina.png" width="100" height="100" alt="msinamsina" style="border-radius:50%">
+        <img src="https://github.com/msinamsina.png" width="80" height="80" alt="msinamsina" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/msinamsina">msinamsina</a>
+      <br><a href="https://github.com/msinamsina" style="font-size:14px;">msinamsina</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ardawanism">
-        <img src="https://github.com/Ardawanism.png" width="100" height="100" alt="Ardawanism" style="border-radius:50%">
+        <img src="https://github.com/Ardawanism.png" width="80" height="80" alt="Ardawanism" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/Ardawanism">Ardawanism</a>
+      <br><a href="https://github.com/Ardawanism" style="font-size:14px;">Ardawanism</a>
     </td>
     <td align="center">
       <a href="https://github.com/shining0611armor">
-        <img src="https://github.com/shining0611armor.png" width="100" height="100" alt="shining0611armor" style="border-radius:50%">
+        <img src="https://github.com/shining0611armor.png" width="80" height="80" alt="shining0611armor" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/shining0611armor">shining0611armor</a>
+      <br><a href="https://github.com/shining0611armor" style="font-size:14px;">shining0611armor</a>
     </td>
     <td align="center">
       <a href="https://github.com/sepidehetaati">
-        <img src="https://github.com/sepidehetaati.png" width="100" height="100" alt="sepidehetaati" style="border-radius:50%">
+        <img src="https://github.com/sepidehetaati.png" width="80" height="80" alt="sepidehetaati" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/sepidehetaati">sepidehetaati</a>
+      <br><a href="https://github.com/sepidehetaati" style="font-size:14px;">sepidehetaati</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/ArmanFz">
-        <img src="https://github.com/ArmanFz.png" width="100" height="100" alt="ArmanFz" style="border-radius:50%">
+        <img src="https://github.com/ArmanFz.png" width="80" height="80" alt="ArmanFz" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/ArmanFz">ArmanFz</a>
+      <br><a href="https://github.com/ArmanFz" style="font-size:14px;">ArmanFz</a>
     </td>
     <td align="center">
       <a href="https://github.com/dorsamgh">
-        <img src="https://github.com/dorsamgh.png" width="100" height="100" alt="dorsamgh" style="border-radius:50%">
+        <img src="https://github.com/dorsamgh.png" width="80" height="80" alt="dorsamgh" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/dorsamgh">dorsamgh</a>
+      <br><a href="https://github.com/dorsamgh" style="font-size:14px;">dorsamgh</a>
     </td>
     <td align="center">
       <a href="https://github.com/ErfanY2AJ">
-        <img src="https://github.com/ErfanY2AJ.png" width="100" height="100" alt="ErfanY2AJ" style="border-radius:50%">
+        <img src="https://github.com/ErfanY2AJ.png" width="80" height="80" alt="ErfanY2AJ" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/ErfanY2AJ">ErfanY2AJ</a>
+      <br><a href="https://github.com/ErfanY2AJ" style="font-size:14px;">ErfanY2AJ</a>
     </td>
     <td align="center">
       <a href="https://github.com/hassanyousefzade">
-        <img src="https://github.com/hassanyousefzade.png" width="100" height="100" alt="hassanyousefzade" style="border-radius:50%">
+        <img src="https://github.com/hassanyousefzade.png" width="80" height="80" alt="hassanyousefzade" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/hassanyousefzade">hassanyousefzade</a>
+      <br><a href="https://github.com/hassanyousefzade" style="font-size:14px;">hassanyousefzade</a>
     </td>
     <td align="center">
       <a href="https://github.com/ghanbarzadeh">
-        <img src="https://github.com/ghanbarzadeh.png" width="100" height="100" alt="ghanbarzadeh" style="border-radius:50%">
+        <img src="https://github.com/ghanbarzadeh.png" width="80" height="80" alt="ghanbarzadeh" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/ghanbarzadeh">ghanbarzadeh</a>
+      <br><a href="https://github.com/ghanbarzadeh" style="font-size:14px;">ghanbarzadeh</a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/rezamoradi">
-        <img src="https://github.com/rezamoradi.png" width="100" height="100" alt="rezamoradi" style="border-radius:50%">
+        <img src="https://github.com/rezamoradi.png" width="80" height="80" alt="rezamoradi" style="border-radius:50%">
       </a>
-      <br><a href="https://github.com/rezamoradi">rezamoradi</a>
+      <br><a href="https://github.com/rezamoradi" style="font-size:14px;">rezamoradi</a>
     </td>
   </tr>
 </table>
