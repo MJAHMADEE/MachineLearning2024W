@@ -134,6 +134,86 @@ If you have questions or need assistance, you can reach out to the course instru
 
 - Instructor: [![Email Me](https://img.shields.io/badge/Email%20Me-Email%20Badge-green)](mailto:ai.kntu.ac@gmail.com)
 
+## Collaborators
+
+This section showcases the avatars of the main collaborators on this project. Click on any avatar to visit their GitHub profile and see their contributions.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MJAHMADEE">
+        <img src="https://github.com/MJAHMADEE.png" width="100" height="100" alt="MJAHMADEE" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/MJAHMADEE">MJAHMADEE</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/msinamsina">
+        <img src="https://github.com/msinamsina.png" width="100" height="100" alt="msinamsina" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/msinamsina">msinamsina</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ardawanism">
+        <img src="https://github.com/Ardawanism.png" width="100" height="100" alt="Ardawanism" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/Ardawanism">Ardawanism</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shining0611armor">
+        <img src="https://github.com/shining0611armor.png" width="100" height="100" alt="shining0611armor" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/shining0611armor">shining0611armor</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sepidehetaati">
+        <img src="https://github.com/sepidehetaati.png" width="100" height="100" alt="sepidehetaati" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/sepidehetaati">sepidehetaati</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ArmanFz">
+        <img src="https://github.com/ArmanFz.png" width="100" height="100" alt="ArmanFz" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/ArmanFz">ArmanFz</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dorsamgh">
+        <img src="https://github.com/dorsamgh.png" width="100" height="100" alt="dorsamgh" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/dorsamgh">dorsamgh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ErfanY2AJ">
+        <img src="https://github.com/ErfanY2AJ.png" width="100" height="100" alt="ErfanY2AJ" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/ErfanY2AJ">ErfanY2AJ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hassanyousefzade">
+        <img src="https://github.com/hassanyousefzade.png" width="100" height="100" alt="hassanyousefzade" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/hassanyousefzade">hassanyousefzade</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ghanbarzadeh">
+        <img src="https://github.com/ghanbarzadeh.png" width="100" height="100" alt="ghanbarzadeh" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/ghanbarzadeh">ghanbarzadeh</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rezamoradi">
+        <img src="https://github.com/rezamoradi.png" width="100" height="100" alt="rezamoradi" style="border-radius:50%">
+      </a>
+      <br><a href="https://github.com/rezamoradi">rezamoradi</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Citation
 
 ```bibtex
