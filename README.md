@@ -216,13 +216,27 @@ This section showcases the avatars of the main collaborators on this project. Cl
 
 ## Citation
 
+### BibTeX
+
+To cite this resource in a publication or academic paper, you can use the following BibTeX entry:
+
 ```bibtex
-@article{MachineLearning2024W,
-  title={KNTU Machine Learning Course},
-  author={K. N. Toosi University of Technology},
-  journal={GitHub. Note: https://github.com/MJAHMADEE/MachineLearning2024W},
-  year={Winter 2024}
+@misc{MJAHMADEE2024,
+  author = {K. N. Toosi University of Technology},
+  title = {Machine Learning Course 2024},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/MJAHMADEE/MachineLearning2024W}}
 }
 ```
+### IEEE Format
+
+For those who are using the IEEE citation style, the following format can be used:
+
+```
+K. N. Toosi University of Technology, "Machine Learning Course 2024," GitHub repository, 2024. [Online]. Available: https://github.com/MJAHMADEE/MachineLearning2024W
+```
+
 
 Happy learning!
