@@ -1,40 +1,55 @@
-# Chapter 2: Advanced Classification Techniques
+# Chapter 3 - Bayesian, kNN, and Parzen 📊👥
 
-Welcome to Chapter 2 of our course, where we delve into advanced classification methods, focusing on Bayesian Methods, Parzen Windows, and k-Nearest Neighbors (kNN).
+Welcome to Chapter 3 of the Machine Learning 2024 Winter Course! 🎓 This chapter explores three key machine learning techniques: Bayesian methods, k-Nearest Neighbors (kNN), and Parzen windows. Dive into detailed study materials which include videos, Python code examples, and more.
 
-## Chapter 2 Overview
+## Table of Contents 📑
 
-In this chapter, we explore sophisticated classification techniques and their applications. You'll gain a deeper understanding of these advanced models, how they work, and how they're implemented in practice.
-
-### What You Will Learn
-
-- The concept of Bayesian Classification
-- Introduction to Parzen Windows
-- Basics of k-Nearest Neighbors (kNN)
-- Practical applications of these advanced techniques
-
-## Resources
-
-Access the materials for Chapter 2 through the following parts:
-
-### Part 1: Bayesian Classification
-
-Delve into the concept and fundamentals of Bayesian Classification in Part 1.
-
-[![Part 1](https://img.shields.io/badge/Access-Part%201-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Advanced%20Classification%20Techniques/Part%201)
-
-### Part 2: Parzen Windows
-
-Continue your learning with an introduction to Parzen Windows in Part 2.
-
-[![Part 2](https://img.shields.io/badge/Access-Part%202-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Advanced%20Classification%20Techniques/Part%202)
-
-### Part 3: k-Nearest Neighbors (kNN)
-
-In Part 3, explore the basics and applications of k-Nearest Neighbors (kNN).
-
-[![Part 3](https://img.shields.io/badge/Access-Part%203-blue?style=flat-square&logo=github)](https://github.com/MJAHMADEE/MachineLearning2024W/tree/main/Chapter%202%20-%20Advanced%20Classification%20Techniques/Part%203)
+- [Bayesian Methods](#bayesian-methods)
+- [k-Nearest Neighbors (kNN)](#k-nearest-neighbors-knn)
+- [Parzen Windows](#parzen-windows)
 
 ---
 
-Feel free to reach out if you have any questions or need further assistance with the materials provided. Happy Learning!
+## Bayesian Methods
+
+[![Materials](https://img.shields.io/badge/Access-Materials-green.svg?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1y-tWdiFVioVj2IEDPtkr6pmVK8OL7-E7?usp=sharing)
+
+Explore Bayesian methods that leverage Bayes' Theorem to make predictions and decisions from data. Ideal for understanding probabilistic approaches and decision-making in uncertain environments.
+
+### Contents
+
+- 🎥 Videos
+- 🐍 Python Codes
+- 📝 Lecture Notes
+
+---
+
+## k-Nearest Neighbors (kNN)
+
+[![Materials](https://img.shields.io/badge/Access-Materials-green.svg?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1O-auxXUBxkBwoi6ajptVgJatrS5ZX86H?usp=sharing)
+
+The k-Nearest Neighbors algorithm (kNN) uses proximity to make predictions and classifications. It's simple to implement and powerful in practice.
+
+### Contents
+
+- 🎥 Videos
+- 🐍 Python Codes
+- 📝 Lecture Notes
+
+---
+
+## Parzen Windows
+
+[![Materials](https://img.shields.io/badge/Access-Materials-green.svg?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/15vBdrsQf2O7X_3oA0LYDm2Emqag3u3KL?usp=sharing)
+
+Learn about Parzen Windows, a non-parametric approach to estimate the probability density function of a random variable. This method is essential for understanding density estimation in statistics and machine learning.
+
+### Contents
+
+- 🎥 Videos
+- 🐍 Python Codes
+- 📝 Lecture Notes
+
+---
+
+Enjoy exploring these fundamental machine learning techniques! 🚀 Happy learning!
