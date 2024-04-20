@@ -4,7 +4,7 @@ This repository contains Python code implementing a neural network neuron (`Neur
 
 ## Resources :floppy_disk:
 
-[![Video and Code Materials](https://img.shields.io/badge/📹%20Video%20&%20Code%20Materials-Google%20Derive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1ff8Hm3wIZqrSkmwgh6qEnve6_hBeY-Fc?usp=sharing)
+[![Video and Code Materials](https://img.shields.io/badge/📹%20Video%20&%20Code%20Materials-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1ff8Hm3wIZqrSkmwgh6qEnve6_hBeY-Fc?usp=sharing)
 
 ## Neuron Class
 
