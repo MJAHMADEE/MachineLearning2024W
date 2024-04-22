@@ -1,3 +1,5 @@
+[![GitHub ID](https://img.shields.io/badge/GitHub-MJAHMADEE-blue?style=flat&logo=github)](https://github.com/MJAHMADEE)
+
 # Neuron and Perceptron Implementation
 
 This repository contains Python code implementing a neural network neuron (`Neuron` class) and a Perceptron classifier (`Perceptron` class) using NumPy and other libraries.
