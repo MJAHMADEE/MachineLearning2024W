@@ -1,4 +1,4 @@
-# Chapter 3 - Bayesian, kNN, and Parzen 📊👥
+# Chapter 3 - Bayesian 📊👥
 
 Welcome to Chapter 3 of the Machine Learning 2024 Winter Course! 🎓 This chapter explores three key machine learning techniques: Bayesian methods, k-Nearest Neighbors (kNN), and Parzen windows. Dive into detailed study materials which include videos, Python code examples, and more.
 
