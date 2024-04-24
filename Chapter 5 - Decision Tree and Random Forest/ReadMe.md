@@ -1,19 +1,21 @@
-# Decision Tree and Random Forest - Machine Learning 2024W 🌲
+# Decision Tree and Random Forest Learning Series 🌳🌲
 
-Welcome to the repository for our Decision Tree and Random Forest lessons, part of our 2024 Machine Learning course! This repository includes theoretical teachings and coding practices covered across approximately 8 short video tutorials available on our course channel.
+Welcome students! We have prepared a series of about 8 short educational videos on Decision Trees, available on our course channel. You can access the playlists for these sessions through the links provided below.
 
-## 📚 Resources
+📹 Inside the videos, there are questions and assignments that you can submit in the group to earn points. The code and slides related to the videos are available in the video post captions on our Telegram channel.
 
-Below are the links to access the playlist of these sessions. Feel free to join our Telegram channel and participate by sending your answers to gain extra points!
+🚀 Best of luck with your studies!
 
-[![Join Telegram Channel](https://img.shields.io/badge/Join%20Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/+5palM1_8MvtjMDVk)
+## 📣 [Join our Telegram channel!](https://t.me/+5palM1_8MvtjMDVk)
 
-### Video Lessons
-1. **Session 13 - Decision Tree**: Introduction to Basic Concepts. [Watch Here](https://t.me/AIKNTU/72)
-2. **Session 14 - Decision Tree**: How Machine Learning Builds Trees and Famous Decision Trees in Machine Learning. [Watch Here](https://t.me/AIKNTU/73)
-3. **Session 15 - Decision Tree**: Entropy and Information Gain Index. [Watch Here](https://t.me/AIKNTU/74)
-4. **Session 16 - Decision Tree**: The ID3 Algorithm, Concepts and Theory. [Watch Here](https://t.me/AIKNTU/75)
-5. **Session 17 - Decision Tree**: Coding a Decision Tree and ID3 Algorithm From Scratch. [Watch Here](https://t.me/AIKNTU/76)
-6. **Session 18 - Decision Tree**: Part Two of Coding a Decision Tree and ID3 Algorithm From Scratch. [Watch Here](https://t.me/AIKNTU/77)
-7. **Session 19 - Decision Tree**: Second Session of Decision Tree Coding (with scikit-learn). [Watch Here](https://t.me/AIKNTU/78)
-8. **Session 20 - Decision Tree**: Decision Tree Regression Coding. [Watch Here](https://t.me/AIKNTU/79)
+### Video Sessions on Decision Trees
+1. **Session 13 - Decision Trees:** Introduction to the basic concepts of Decision Trees. [Watch here](https://t.me/c/1937909972/72)
+2. **Session 14 - Decision Trees:** How does machine learning build trees? Famous Decision Trees in machine learning. [Watch here](https://t.me/1937909972/73)
+3. **Session 15 - Decision Trees:** Entropy in Decision Trees and the Information Gain index. [Watch here](https://t.me/1937909972/74)
+4. **Session 16 - Decision Trees:** ID3 Algorithm, concepts and theory. [Watch here](https://t.me/1937909972/75)
+5. **Session 17 - Decision Trees:** Coding Decision Trees and the ID3 algorithm from scratch. [Watch here](https://t.me/1937909972/76)
+6. **Session 18 - Decision Trees:** Part two of coding Decision Trees and the ID3 algorithm from scratch. [Watch here](https://t.me/1937909972/77)
+7. **Session 19 - Decision Trees:** Second session on coding Decision Trees (using the scikit-learn library). [Watch here](https://t.me/1937909972/78)
+8. **Session 20 - Decision Trees:** Regression in Decision Trees and coding it. [Watch here](https://t.me/1937909972/79)
+
+Feel free to contribute or ask questions. We're all here to learn together!
