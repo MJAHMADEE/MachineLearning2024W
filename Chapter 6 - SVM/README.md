@@ -4,6 +4,13 @@
 
 🌟 Welcome to our repository dedicated to exploring Support Vector Machines (SVM) for educational purposes in our Machine Learning course. 🌟 This repository aims to provide comprehensive resources for understanding SVM through practical examples and custom implementations.
 
+## Resources
+
+Access additional resources including videos, codes, and more via our Google Drive:
+
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Resources-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/19lYeQJ_cXTi2UoqB2HKaZs1qosyNLqWZ?usp=sharing)
+
+
 ## Overview
 
 In this repository, we offer two main types of SVM implementations:
@@ -36,8 +43,3 @@ Explore our collection of implementations and demonstrations showcasing Support 
 ### 4. Kernel Trick (Scikit-learn)
 - Implementations using Scikit-learn demonstrating SVM with various kernels.
 
-## Resources
-
-Access additional resources including videos, codes, and more via our Google Drive:
-
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Access%20Resources-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/19lYeQJ_cXTi2UoqB2HKaZs1qosyNLqWZ?usp=sharing)
