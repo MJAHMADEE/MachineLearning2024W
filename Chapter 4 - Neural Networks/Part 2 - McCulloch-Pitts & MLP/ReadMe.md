@@ -90,3 +90,14 @@ The repository includes data preprocessing techniques such as:
 - `data_preprocessing.ipynb`: Notebook focusing on data preprocessing and analysis.
 - `confusion_matrix.png`: Saved confusion matrix heatmap.
 - `requirements.txt`: Python packages and versions required to run the code.
+
+## Additional Learning Materials
+
+Expand your understanding of machine learning concepts with tutorials on topics such as Cross-validation, Bootstrapping, and more. Access these resources in our Google Drive folder:
+
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Folder-blue?style=flat-square&logo=google-drive)](https://drive.google.com/drive/folders/1hJ6XWR-ozV390YkbOWx2fCWpQ51AZNr8?usp=sharing)
+
+📣 Stay updated and engage in discussions by joining our Telegram channel:
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Join-blue?style=flat-square&logo=telegram)](https://t.me/+5palM1_8MvtjMDVk)
+
