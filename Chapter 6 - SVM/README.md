@@ -1,4 +1,5 @@
 # Support Vector Machines (SVM) Implementations
+[![GitHub ID](https://img.shields.io/badge/GitHub-shining0611armor-blue?style=flat&logo=github)](https://github.com/shining0611armor)
 
 🌟 Welcome to our repository dedicated to exploring Support Vector Machines (SVM) for educational purposes in our Machine Learning course. 🌟 This repository aims to provide comprehensive resources for understanding SVM through practical examples and custom implementations.
 
