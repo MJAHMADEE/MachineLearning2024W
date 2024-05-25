@@ -1,4 +1,4 @@
-# Dimensionality Reduction Techniques
+# Dimensionality Reduction Techniques and Autoencoders
 
 Welcome to our repository dedicated to exploring Dimensionality Reduction techniques for educational purposes in our Machine Learning course. This repository aims to provide comprehensive resources for understanding Dimensionality Reduction through practical examples and custom implementations.
 
@@ -18,6 +18,10 @@ In this repository, we offer implementations of various Dimensionality Reduction
 2. **Linear Discriminant Analysis (LDA)**: Explore LDA, a supervised dimensionality reduction technique, which aims to maximize the separation between different classes while reducing dimensionality.
    
 3. **t-Distributed Stochastic Neighbor Embedding (t-SNE)**: Dive into t-SNE, a non-linear dimensionality reduction technique particularly useful for visualizing high-dimensional data in lower dimensions while preserving local structure.
+
+4. **Autoencoders**: Implement autoencoders, a type of artificial neural network used to learn efficient codings of unlabeled data in an unsupervised manner.
+
+5. **Variational Autoencoders (VAE)**: Explore VAEs, a generative model that introduces a probabilistic approach to autoencoders, allowing for more robust and flexible dimensionality reduction.
 
 ## Features
 
@@ -44,6 +48,12 @@ Explore our collection of implementations and demonstrations showcasing Dimensio
 
 ### 4. Dimensionality Reduction (Scikit-learn)
 - Demonstrations of Dimensionality Reduction techniques utilizing Scikit-learn's functionalities for various tasks.
+
+### 5. Autoencoders (from Scratch)
+- Build a basic autoencoder neural network from scratch to understand the encoding-decoding process.
+
+### 6. Variational Autoencoders (from Scratch)
+- Implement a simple variational autoencoder to explore how they differ from traditional autoencoders and their applications in dimensionality reduction.
 
 ---
 Feel free to explore and learn more about Dimensionality Reduction techniques through our repository!
